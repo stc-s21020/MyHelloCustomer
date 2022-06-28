@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             EditText inputName = findViewById(R.id.etName);
             //メッセージを表示するTextViewオブジェクトを取得
             TextView output = findViewById(R.id.tvOut);
+            
             int id = view.getId();
             switch (id) {
                 case R.id.btIn:      //表示ボタン
