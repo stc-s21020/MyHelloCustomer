@@ -1,7 +1,6 @@
 package jp.suntech.s21020.myhellocustomer;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
